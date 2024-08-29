@@ -5,7 +5,7 @@
 | Datasets         | List below 3 dataset topics, or list less than 3 data set urls | List 3 datasets, listing 3 data set urls for each   | Plan to create your own data for your data set |
 
 1. Assignment Attempted and submitted but have 1 or more "Unmet" criteria = 50%
-2. Complete all Met Criteria = 80%
+2. Complete all Criteria "Met" = 80%
 3. For each completed Criteria "Beyond" = additional 10%
 
 Total Possible: 100%
